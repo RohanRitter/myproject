@@ -18,6 +18,8 @@
 	<button on:click={handleClick}>Update belt colour</button>
 	<!-- <input type="text" on:input={handleInput}> (One way binding)--> 
 	<input type="text" bind:value={beltcoulor}> <!-- (Two way binding) -->
+	<p>Testing Git Clone</p>
+	
 </main>
 
 <style>
